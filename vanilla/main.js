@@ -52,7 +52,7 @@
             <div class="row">
                 <div class="col-md-6"><a href="${repo.html_url}" target="_black">${repo.name}</a></div>
                 <div class="col-md-6">
-                    <span class="badge badge-primary">stars: ${repo.stargazers_count}</span>
+                    <span class="badge badge-primary">Stars: ${repo.stargazers_count}</span>
                     <span class="badge badge-success">Watch: ${repo.watchers_count}</span>
                     <span class="badge badge-warning">Forks: ${repo.forks_count}</span>
                 </div>
